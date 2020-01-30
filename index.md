@@ -43,14 +43,3 @@ Nota: Esto apunta a que la Universidad en su conjunto se involucre con OWASP. Es
 
 ### Empresa
 * Realizando donaciones para el capítulo local, para el apoyo de proyectos y eventos
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
