@@ -6,6 +6,8 @@ region: South America
 
 ---
 
+---
+
 # Sobre el capítulo OWASP Paraguay
 El capitulo OWASP Paraguay comenzó en el año 2012 con el fin de difundir temas de Seguridad en Aplicaciones en Paraguay. El fundador del capítulo en Paraguay es Hector Aguirre y actualmente el capítulo se gestiona en conjunto en formato de co-líderes; además se cuenta con un grupo estable de colaboradores que participan activamente en las actividades del capítulo local, organización de eventos y talleres.
 
@@ -43,3 +45,7 @@ Nota: Esto apunta a que la Universidad en su conjunto se involucre con OWASP. Es
 
 ### Empresa
 * Realizando donaciones para el capítulo local, para el apoyo de proyectos y eventos
+
+---
+
+
