@@ -5,7 +5,7 @@ title: OWASP Paraguay
 tags: example-tag
 level: 0
 
-region: Latin America
+region: South America
 
 auto-migrated: 1
 
@@ -79,5 +79,3 @@ Buscamos difundir temas de Seguridad de la Información en Aplicaciones Web, con
 </tbody>
 </table>
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Latin America](Category:Latin_America "wikilink")
