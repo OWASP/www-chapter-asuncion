@@ -11,8 +11,6 @@ region: South America
 
 <h1 id="bienvenidos_a_owasp_paraguay">Sobre el capítulo OWASP Paraguay</h1>
 Buscamos difundir temas de Seguridad de la Información en Aplicaciones Web, concientizar y sensibilizar tanto a organizaciones, empresas, Universidades, estudiantes, desarrolladores como también fomentar eventos de capacitación de seguridad en el Paraguay.<br />
-<br />
-
 <h3><strong>Sin fines de lucro, organización de voluntarios:</strong></h3>
 <ul style="list-style-type:disc;">
   <li>Todos los miembros son voluntarios</li>
