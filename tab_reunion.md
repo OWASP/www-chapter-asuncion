@@ -6,7 +6,8 @@ order: 3
 tags: Paraguay
 ---
 
-# Reuniones del 2019
+# Historial de Reuniones
+###2019###
 - Jueves 21 de Marzo, Reunión de Coordinación del Capítulo OWASP Paraguay Chapter | Lugar: Bancard | Hora:15hs.
 - Viernes 2 de Agosto, Reunión de Coordinación del Capítulo OWASP Paraguay Chapter | Lugar: Cafe Valdez | Hora:19hs.
 - Viernes 20 de Septiembre, Charla Sobre seguridad: OWASP TOP 10 e implementación de controles de Seguridad | Lugar: Hotel Encanto Rural, Bella Vista, Ciudad de Encarnación.
