@@ -1,6 +1,6 @@
-<!--### Chapter Information
-* Chapter Region
+### Próximo evento
+En definición..
 
-### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+### Redes sociales (social links)
+* [Facebook](https://www.facebook.com/pages/category/Internet-Company/Owasp-Paraguay-383788948365410/)
+* [Google Group OWASP Paraguay](https://groups.google.com/a/owasp.org/forum/#!forum/paraguay-chapter)
