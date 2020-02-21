@@ -1,9 +1,11 @@
 ---
-title: Reuniones
+title: Reunion
+displaytext: Reuniones
 layout:  null
 tab: true
 order: 2
 tags: Paraguay
+
 ---
 
 # Historial de Reuniones
