@@ -1,8 +1,9 @@
 ---
 
 layout: col-sidebar
-title: OWASP Paraguay
+title: OWASP Asuncion, Paraguay
 tags: Paraguay
+meetup-group: 
 region: South America
 
 ---
@@ -28,4 +29,7 @@ Buscamos difundir temas de Seguridad de la Información en Aplicaciones Web, con
   <li>Universidad o centro educativo</li>
   <li>Empresa</li>
 
-
+## Upcoming Meeting: 
+  
+  
+ {% include chapter_events.html group=page.meetup-group %} 
