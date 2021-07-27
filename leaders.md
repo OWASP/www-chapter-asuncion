@@ -1,4 +1,4 @@
 ### Leaders
 
-* [Ricardo Rodrigues](ricardo.rodriguez@owasp.org)
+* [Ricardo Rodriguez](ricardo.rodriguez@owasp.org)
 * [Diego Garcia](diego.garcia@owasp.org)
