@@ -11,7 +11,7 @@ tags: Paraguay
 # Historial de Reuniones
 
 2021
-- 27 de Julio, Reunión de Coordinación del Capitulo Owasp Paraguay Generar metodología de adherencia para nuevos miembros | Lugar: Virtual | Hora: 18Hs
+- 27 de Julio, Reunión de Coordinación del Capitulo Owasp Paraguay para generar una metodología eficaz de adherencia de nuevos miembros | Lugar: Virtual | Hora: 18Hs
 - 28 de Junio, Reunión de Coordinación del Capitulo Owasp Paraguay | Lugar: Virtual | Hora: 18Hs
 
 2020
