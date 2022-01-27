@@ -8,9 +8,15 @@ tags: Paraguay
 
 ---
 
-# Historial de Reuniones
-
+# Historial de Reuniones / Actividades
+2022
+- 02 de Enero, Debate referente a Fraudes en tiempos de Covid: Lugar: Virtual
+-
 2021
+-  07 de Diciembre, Webinar destrucción de datos en forma segura | Lugar: Virtual
+-  25 de Noviembre, Reunión de coordinación Owasp Asunción | Lugar: Virtual
+-  18 al 22 de Octubre, Participación en Kava Con como organizadores del evento | Lugar: Virtual
+- 01 al 30 de Octubre, Se realizó campañas de concientización que duró un mes, se entregaron kits para empresas a modo de que puedan realizar campañas de concientización | Lugar: Virtual
 - 27 de Julio, Reunión de Coordinación del Capitulo Owasp Paraguay para generar una metodología eficaz de adherencia de nuevos miembros | Lugar: Virtual | Hora: 18Hs
 - 28 de Junio, Reunión de Coordinación del Capitulo Owasp Paraguay | Lugar: Virtual | Hora: 18Hs
 
