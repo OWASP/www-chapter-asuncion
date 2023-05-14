@@ -1,4 +1,5 @@
 ### Leaders
 
-* [Hector Aguirre](mailto:hector.antonio.aguirre@owasp.org)
-* [Ricardo Rodríguez](mailto:ricardo.rodriguez@owasp.org)
+* [Ricardo Rodriquez](mailto:ricardo.rodriquez@owasp.org)
+* [Rodrigo Villalba](mailto:rodrigo.villalba@owasp.org)
+
