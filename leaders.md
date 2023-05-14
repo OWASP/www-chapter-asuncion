@@ -1,5 +1,5 @@
 ### Leaders
 
-* [Ricardo Rodriquez](mailto:ricardo.rodriquez@owasp.org)
+* [Ricardo Rodriguez](mailto:ricardo.rodriguez@owasp.org)
 * [Rodrigo Villalba](mailto:rodrigo.villalba@owasp.org)
 
