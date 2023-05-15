@@ -10,7 +10,7 @@ region: South America
 
 
   <p align="center">
-<figure><img src="/assets/images/owasppy.png"></figure>
+<figure><img src="https://github.com/OWASP/www-chapter-asuncion/blob/master/assets/images/owasppy.png"></figure>
 </p>
 <h1 id="bienvenidos_a_owasp_asuncion">Sobre el capítulo OWASP Asuncion</h1>
 Buscamos difundir temas de Seguridad de la Información en Aplicaciones Web, concientizar y sensibilizar tanto a organizaciones, empresas, Universidades, estudiantes, desarrolladores como también fomentar eventos de capacitación de seguridad en el Paraguay.<br />
