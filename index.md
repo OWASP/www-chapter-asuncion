@@ -31,8 +31,6 @@ Buscamos difundir temas de Seguridad de la Información en Aplicaciones Web, con
   <li>Universidad o centro educativo</li>
   <li>Empresa</li>
 
-## Upcoming Meeting: 
-  Join our [Meetup group](https://www.meetup.com/owaspasuncion/) for all chapter activities.
   
   
  {% include chapter_events.html group=page.meetup-group %} 
