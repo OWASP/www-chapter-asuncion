@@ -32,5 +32,3 @@ Buscamos difundir temas de Seguridad de la Información en Aplicaciones Web, con
   <li>Empresa</li>
 
   
-  
- {% include chapter_events.html group=page.meetup-group %} 
