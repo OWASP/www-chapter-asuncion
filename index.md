@@ -30,5 +30,6 @@ Buscamos difundir temas de Seguridad de la Información en Aplicaciones Web, con
   <li>Individualmente</li>
   <li>Universidad o centro educativo</li>
   <li>Empresa</li>
+.{ % include chapter_events.html group=owasp-asuncion-chapter %}
 
   
