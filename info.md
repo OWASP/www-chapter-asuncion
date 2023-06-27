@@ -9,7 +9,7 @@
 * [Lista de correo / Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/paraguay-chapter)
 
 ### Board members
-* [Nelsón Galeano](mailto:nelsonsebasgaleano@gmail.com)
+* [Nelson Galeano](mailto:nelsonsebasgaleano@gmail.com)
 * [Francisco Paredes](mailto:franciscojavierparedesnunez@gmail.com)
 * [Andrea Quevedo](mailto:andre.quevedo2694@gmail.com)
 * [Hector Aguirre](mailto:hector.antonio.aguirre@owasp.org)
