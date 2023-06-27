@@ -1,5 +1,5 @@
 ### Próximo evento
-* 30 Jun, 2023 | Introducción a OWASP Asunción, Paraguay([https://www.youtube.com/@owaspparaguay/](https://www.meetup.com/owasp-asuncion-chapter/events/294444583/))
+* 30 Jun, 2023 | Introducción a OWASP Asunción, Paraguay ([Meetup](https://www.meetup.com/owasp-asuncion-chapter/events/294444583/))
 
 ### Redes sociales (social links)
 * [Youtube](https://www.youtube.com/@owaspparaguay/)
