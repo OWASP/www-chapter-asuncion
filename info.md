@@ -1,5 +1,5 @@
 ### Próximo evento
-* 14 Sep, 2023 | Desarrollo Seguro - OWASP API Security Top 10 2023 ([Meetup](https://www.meetup.com/owasp-asuncion-chapter/events/295757980/))
+* 14 Sep, 2023 | Desarrollo Seguro - OWASP API Security Top 10 2023 @ Facultad Politécnica, UNA ([Meetup](https://www.meetup.com/owasp-asuncion-chapter/events/295757980/))
 
 ### Redes sociales (social links)
 * [Youtube](https://www.youtube.com/@owaspparaguay/)
