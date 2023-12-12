@@ -1,5 +1,5 @@
 ### Próximo evento
-* 20 Oct, 2023 | Kavacon 2023 @ BCP ([Meetup](https://www.meetup.com/owasp-asuncion-chapter/events/296460582/))
+* 12 Dec, 2023 | HackDay 2023 @ Dazzler Hotel ([Meetup](https://www.meetup.com/owasp-asuncion-chapter/events/297899434/))
 
 ### Redes sociales (social links)
 * [Youtube](https://www.youtube.com/@owaspparaguay/)
