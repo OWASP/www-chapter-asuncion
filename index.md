@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Asuncion, Paraguay
 tags: Paraguay
 meetup-group: owaspasuncion
+country: Paraguay
 region: South America
 
 ---
