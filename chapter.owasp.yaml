@@ -1,0 +1,25 @@
+leaders:
+  - name: Ricardo Rodriguez
+    email: ricardo.rodriguez@owasp.org
+    github: ricard64x
+  - name: Rodrigo Villalba
+    email: rodrigo.villalba@owasp.org
+    github: rodrigovb
+location:
+  country: Paraguay
+  country_code: PY
+  region: Capital District
+  city: Asuncion
+  latitude: -25.2800459
+  longitude: -57.6343814
+meetup_group: owaspasuncion
+name: OWASP Asuncion, Paraguay
+repositories:
+  - name: www-chapter-asuncion
+    url: https://github.com/OWASP/www-chapter-asuncion
+    description: OWASP Foundation Web Repository
+tags:
+  - Paraguay
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-asuncion
